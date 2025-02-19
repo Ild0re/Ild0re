@@ -8,6 +8,8 @@
 - В 2025 закончил обучение на Android разработчика в Яндекс Практикуме
 - Продолжаю обучаться новым технологиям
 
+---
+
 ### &#128736; Мой стек:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,3 +18,10 @@
 ![Room](https://img.shields.io/badge/Room-%23CC6699.svg?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-%238DD6F9.svg?style=for-the-badge)
 ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-%2343853D.svg?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-%23CC6699.svg?style=for-the-badge)
+
+---
+
+### &#127888; Интересные проекты:
+- [PlaylistMaker - создание плейлистов и прослушивание музыки](https://github.com/Ild0re/PlaylistMaker)<img src="https://img.shields.io/badge/kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin"/> <img src="https://img.shields.io/badge/Android-green?logo=Android&logoColor=white" alt="Android" title="Android"/> 
+- [Поиск вакансий через API HeadHunter](https://github.com/Ild0re/practicum-android-diploma)<img src="https://img.shields.io/badge/kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin"/> <img src="https://img.shields.io/badge/Android-green?logo=Android&logoColor=white" alt="Android" title="Android"/> 
