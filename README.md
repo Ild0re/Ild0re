@@ -22,6 +22,6 @@
 
 ---
 
-### &#128732; Интересные проекты:
+### &#128737; Интересные проекты:
 - [PlaylistMaker - создание плейлистов и прослушивание музыки](https://github.com/Ild0re/PlaylistMaker)<img src="https://img.shields.io/badge/kotlin-%237F52FF?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white" alt="Android" title="Android"/> 
 - [Поиск вакансий через API HeadHunter](https://github.com/Ild0re/practicum-android-diploma)<img src="https://img.shields.io/badge/kotlin-%237F52FF?logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin"/> <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white" alt="Android" title="Android"/> 
