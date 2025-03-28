@@ -4,7 +4,8 @@
 ### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/nurllda) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:nuruda@yandex.ru)
 
-- 5 лет занимаюсь процессами в IT 
+- 5 лет занимаюсь процессами в IT
+- Участник Podlodka Android Crew 2025
 - Продолжаю обучаться новым технологиям
 
 ---
