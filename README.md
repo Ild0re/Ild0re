@@ -5,7 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/nurllda) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:nuruda@yandex.ru)
 
 - 5 лет занимаюсь процессами в IT 
-- В 2025 закончил обучение на Android разработчика в Яндекс Практикуме
 - Продолжаю обучаться новым технологиям
 
 ---
